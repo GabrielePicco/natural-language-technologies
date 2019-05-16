@@ -1,11 +1,29 @@
-from nltk.corpus import wordnet
-import inflect
 import string
+import inflect
+from nltk.corpus import wordnet
+
 inflect = inflect.engine()
 
 
-def remove_punctuation(sentence):
-    return sentence.translate(str.maketrans('', '', string.punctuation))
+def normalize_sentence(sentence):
+    """
+    Normalize a sentence, removing punctuation and uppercase letters
+    :param sentence: the input sentence
+    :return: the normalized sentence
+    """
+    sentence = sentence.translate(str.maketrans('', '', string.punctuation))
+    sentence = sentence.lower()
+    return sentence.split()
+
+
+def get_synset_context(syn):
+    """
+    Givene a synset generate a context, extracting the definition, the examples and the gloss
+    :param syn: the synset
+    :return: set, the context
+    """
+    sentence_context = normalize_sentence(syn.definition() + " ".join(syn.examples()))
+    return set(sentence_context) | set(syn.lemma_names())
 
 
 def lesk(sentence, ambiguous_word):
@@ -16,16 +34,10 @@ def lesk(sentence, ambiguous_word):
     :param ambiguous_word: word
     :return: Most probable synset for the ambiguos word
     """
-    if ambiguous_word is None:
-        print(sentence)
-        return None
     target_synsets = wordnet.synsets(ambiguous_word)
-    if target_synsets is None:
-        return None
-    sentence = remove_punctuation(sentence).lower()
-    context = set(sentence.split())
-    intersection_c, sense = max([(len(context.intersection(remove_punctuation(syn.definition()).split())), syn)
-                                 for syn in target_synsets])
+    sentence = normalize_sentence(sentence)
+    context = set(sentence)
+    intersection_c, sense = max([(len(context.intersection(get_synset_context(syn))), syn) for syn in target_synsets])
     return sense
 
 
