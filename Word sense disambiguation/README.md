@@ -6,8 +6,8 @@ This repository contains the implementation of the Lesk algorithm proposed for d
 
 The project consists of two main experiments:
 
-- [Disambiguation of a set of example sentences and generation of equivalent sentences](##disambiguation-of-a-set-of-example-sentences-and-generation-of-equivalent-sentences)
-- [Accuracy on the first 50 sentences of SemCor](##accuracy-on-the-first-50-sentences-of-semcor)
+- [Disambiguation of a set of example sentences and generation of equivalent sentences](#disambiguation-of-a-set-of-example-sentences-and-generation-of-equivalent-sentences)
+- [Accuracy on the first 50 sentences of SemCor](#accuracy-on-the-first-50-sentences-of-semcor)
 
 ## Disambiguation of a set of example sentences and generation of equivalent sentences
 
