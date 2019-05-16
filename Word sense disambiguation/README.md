@@ -37,6 +37,7 @@ Some examples are provided below:
     Syn Definition: the part of a garment that is attached at the armhole and that provides a cloth covering for the arm
     
     Alternatives sentences:
+    
     Sleeves bend at the elbow.
     
 '
