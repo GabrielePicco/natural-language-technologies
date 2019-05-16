@@ -62,17 +62,17 @@ To compute the accuracy, the first noun is selected in the 50 sentences and the 
 
 Below are the accuracies on the same set of data, but using different contexts to disambiguate. The following options for creating a synset context will be evaluated:
 
-- Gloss of the synset
+- Lemmi of the synset
 - Definition of the synset
 - Examples of the synset
 
 The following are the relative accuracy values of the Lesk algorithm using different synset context:
 
 
-    Accuracy only Gloss: 0.36
+    Accuracy only Lemmi: 0.36
     Accuracy only Definition: 0.54
     Accuracy only Examples: 0.42
     
 The decomposition allows to identify the relative contribution to the disambiguation, but the best accuracy is achieved by creating the context using all the properties of the sysnset:    
 
-    Accuracy (Gloss + Definition + Examples): 0.62
+    Accuracy (Lemmi + Definition + Examples): 0.62
