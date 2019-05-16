@@ -6,8 +6,8 @@ This repository contains the implementation of the Lesk algorithm proposed for d
 
 The project consists of two main experiments:
 
-- [Disambiguation of a set of example sentences and generation of equivalent sentences](##Disambiguation_of_a_set_of_example_sentences_and_generation_of_equivalent_sentences)
-- [Accuracy on the first 50 sentences of SemCor](##RELATED_DEVICE)
+- [Disambiguation of a set of example sentences and generation of equivalent sentences](##Disambiguation-of-a-set-of-example-sentences-and-generation-of-equivalent-sentences)
+- [Accuracy on the first 50 sentences of SemCor](##Accuracy-on-the-first-50-sentences-of-SemCor)
 
 ## Disambiguation of a set of example sentences and generation of equivalent sentences
 
@@ -54,7 +54,7 @@ Some examples are provided below:
     The primal problem was not one of quality but of quantity.
     The fundamental problem was not one of quality but of quantity.
 
-## Accuracy on the first 50 sentences of SemCor: 
+## Accuracy on the first 50 sentences of SemCor
     
 To verify the performance of the model the accuracy metrics is calculated using the semantically annotated corpus SemCor (using the first 50 sentences).
 
