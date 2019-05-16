@@ -66,13 +66,13 @@ Below are the accuracies on the same set of data, but using different contexts t
 - Definition of the synset
 - Examples of the synset
 
-The following are the relative accuracy values:
+The following are the relative accuracy values of the Lesk algorithm using different synset context:
 
 
-    Only Gloss: 0.36
-    Only Definition: 0.54
-    Only Examples: 0.42
+    Accuracy only Gloss: 0.36
+    Accuracy only Definition: 0.54
+    Accuracy only Examples: 0.42
     
 The decomposition allows to identify the relative contribution to the disambiguation, but the best accuracy is achieved by creating the context using all the properties of the sysnset:    
 
-    Gloss + definition + examples: 0.62
+    Accuracy (Gloss + Definition + Examples): 0.62
