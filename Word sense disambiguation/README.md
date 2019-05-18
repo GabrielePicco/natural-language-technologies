@@ -70,10 +70,10 @@ Below are the accuracies on the same set of data, but using different contexts t
 The following are the relative accuracy values of the Lesk algorithm using different synset context:
 
 
-    Accuracy only Lemmi: 0.36
-    Accuracy only Definition: 0.54
-    Accuracy only Examples: 0.42
+    Accuracy only Lemmas: 0.36% 
+    Accuracy only Definition: 0.54%
+    Accuracy only Examples: 0.42%
     
 The decomposition allows to identify the relative contribution to the disambiguation, but the best accuracy is achieved by creating the context using all the properties of the sysnset:    
 
-    Accuracy (Lemmi + Definition + Examples): 0.62
+    Accuracy (Lemmas + Definition + Examples): 0.62%
