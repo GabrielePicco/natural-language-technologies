@@ -2,6 +2,11 @@ import time
 
 
 def timeit(method):
+    """
+    Decorator for analysing the execution time
+    :param method:
+    :return:
+    """
     def timed(*args, **kw):
         ts = time.time()
         result = method(*args, **kw)

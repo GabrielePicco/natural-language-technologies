@@ -60,8 +60,10 @@ class Summarizer:
         self.cached_cohesion = {}
         df_document = self.__preprocess_text(file_path, granularity)
         df_document = self.__compute_cohesion(df_document)
-        df_document = df_document.sort_values(by="Cohesion", ascending=False)
-        summarized_document = df_document[0:int(len(df_document) * percentage)].sort_values(by="Paragraph")
+        df_title = df_document[df_document.index == 0]
+        df_document = df_document[1:].sort_values(by="Cohesion", ascending=False)
+        df_document = df_document[0:int(len(df_document) * percentage)].sort_values(by="Paragraph")
+        summarized_document = pd.concat([df_title,df_document])
         if granularity == Granularity.PARAGRAPH:
             return "\n\n".join(list(summarized_document['Sentence']))
         else:
@@ -106,7 +108,7 @@ class Summarizer:
         :param df_document: the document dataframe
         :return: the document dataframe with the cohesion column attribute computed
         """
-        for p, row in df_document.iterrows():
+        for p, row in df_document[1:].iterrows():
             cohesion = 0
             for p_i, row_i in df_document[df_document.index != p].iterrows():
                 chs = self.__compute_paragraph_cohesion((p, row['Token']), (p_i, row_i['Token']))

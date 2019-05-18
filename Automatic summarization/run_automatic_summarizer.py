@@ -13,6 +13,6 @@ for document in DOCUMENTS:
     print(sm, file=open(os.path.join(OUTPUT_FOLDER, os.path.basename(document)), 'w'))
 
 for document in DOCUMENTS:
-    sm = summarizer.summarize_document(document, percentage=0.7, granularity=Granularity.SENTENCE)
+    sm = summarizer.summarize_document(document, percentage=0.3, granularity=Granularity.SENTENCE)
     print(sm, file=open(os.path.join(OUTPUT_FOLDER, "sentence", os.path.basename(document)), 'w'))
 
