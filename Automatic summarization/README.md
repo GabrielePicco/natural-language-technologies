@@ -12,11 +12,11 @@ Internal cohesion is calculated by preprocessing the paragraphs or sentences in 
 
 The similarity between two words is calculated using the following formula:
 
-![sim(w1,w2)](https://i.imgur.com/wdlEj3u.png) 
+<img src="https://i.imgur.com/wdlEj3u.png" width="50%">
 
 Where WO corresponds to the square-rooted weighted overlap vector comparison
 
-![WO](https://i.imgur.com/BATU32r.png)
+<img src="https://i.imgur.com/BATU32r.png" width="50%">
 
 
 For the calculation of the similarity between two words, the list of [nasari](http://lcl.uniroma1.it/nasari/) vectors (with lexical representation) related to the lemmas is identified and the maximum value of WO given by the combinations of the comparisons of the vectors is used.
