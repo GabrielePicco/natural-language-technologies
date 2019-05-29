@@ -1,14 +1,15 @@
 import csv
-from enum import Enum
-
-import pandas as pd
+import functools
 import re
 import string
-import functools
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import sent_tokenize
+from enum import Enum
 from itertools import product
+
+import pandas as pd
+from nltk import PorterStemmer
+from nltk.corpus import stopwords
+from nltk.tokenize import sent_tokenize
+
 from utility import timeit
 
 
@@ -97,8 +98,8 @@ class Summarizer:
         :return: dict{word: freq}
         """
         p_text = p_text.translate(str.maketrans('', '', string.punctuation))
-        lemmatizer = WordNetLemmatizer()
-        splitted_text = map(lemmatizer.lemmatize, p_text.lower().split())
+        stemmer = PorterStemmer()
+        splitted_text = map(stemmer.stem, p_text.lower().split())
         splitted_text = [word for word in splitted_text if word not in stopwords.words("english")]
         return {i: splitted_text.count(i) for i in set(splitted_text)}
 
