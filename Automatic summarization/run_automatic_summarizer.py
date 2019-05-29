@@ -9,7 +9,7 @@ DOCUMENTS = ["./data/sample/Donald-Trump-vs-Barack-Obama-on-Nuclear-Weapons-in-E
 
 summarizer = Summarizer(nasari_file_path=NASARI_PATH)
 for document in DOCUMENTS:
-    sm = summarizer.summarize_document(document, percentage=0.7)
+    sm = summarizer.summarize_document(document, percentage=0.5)
     print(sm, file=open(os.path.join(OUTPUT_FOLDER, os.path.basename(document)), 'w'))
 
 for document in DOCUMENTS:
