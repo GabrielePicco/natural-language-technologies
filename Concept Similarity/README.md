@@ -5,7 +5,9 @@ Similarity measures are used to calculate the semantic distance between the sens
 ## Wu Palmer
 
 Wu Palmer Similarity uses the following formula:
-<img src="https://imgur.com/BMj7EK5" width="50%">
+
+<img src="https://i.imgur.com/z6pIy3r.png" width="50%">
+
 LCS is the Lowest Common Subusmer that represent the deepest common ancestor in the taxonomy between two synset.
 depth() is the distance from the Wordnet's root to the synset.
 
@@ -15,7 +17,7 @@ In this case the lowest common subsumer is calculate using only the first of the
 
 Shortest Path Similarity uses the following formula:
 
-<img src="https://imgur.com/nKtZh8a" width="50%">
+<img src="https://i.imgur.com/uko5BOs.png" width="50%">
 
 depthMax is the longest path from the root of the taxonomy to a leaf and for the given dataset is 12.
 len(s1,s2) reresent the shortest path between two senses. The path is calculated together with the LCS keeping track of the path that leads to the lowest common ancestor.
@@ -24,7 +26,7 @@ len(s1,s2) reresent the shortest path between two senses. The path is calculated
 
 Leacock Chodorow Similarity uses the following formula:
 
-<img src="https://imgur.com/wiLah4D" width="50%">
+<img src="https://i.imgur.com/0zxMxck.png" width="50%">
 
 depthMax is the longest path from the root of the taxonomy to a leaf and for the given dataset is 12.
 len(s1,s2) reresent the shortest path between two senses. The path is calculated together with the LCS keeping track of the path that leads to the lowest common ancestor.
@@ -51,12 +53,12 @@ These results show that the values recorded by hand and the values obtained with
 
 Wu Palmer:
 
-<img src="https://imgur.com/uq1njYa" width="50%">
+<img src="https://i.imgur.com/bplVJmi.png" width="50%">
 
 Shortest Path:
 
-<img src="https://imgur.com/Q8qfzUr" width="50%">
+<img src="https://i.imgur.com/3YaJali.png" width="50%">
 
 Leacock Chodorow:
 
-<img src="https://imgur.com/1GgZL6S" width="50%">
+<img src="https://i.imgur.com/HFb5urG.png" width="50%">
