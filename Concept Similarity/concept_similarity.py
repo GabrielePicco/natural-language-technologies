@@ -82,7 +82,7 @@ def shortest_path_similarity(sense_1, sense_2, senses_path, depth_max):
     :param sense_1: first synset
     :param sense_2: second synset
     :param senses_path: the shortest path between two synsets
-    :param depth_max: the max depth of Wordnet Corpus
+    :param depth_max: the max depth of the taxonomy
     :return: number representing the similarity
     """
     return (((2 * depth_max) - senses_path))
@@ -94,10 +94,10 @@ def lc_similarity(sense_1, sense_2, senses_path, depth_max):
     :param sense_1: first synset
     :param sense_2: second synset
     :param senses_path: the shortest path between two synsets
-    :param depth_max: the max depth of Wordnet Corpus
+    :param depth_max: the max depth of the taxonomy
     :return: number representing the similarity
     """
-    return (-(math.log((((senses_path) + 1) / ((2 * depth_max) + 1)))))
+    return (-(math.log2((((senses_path) + 1) / ((2 * depth_max) + 1)))))
 
 
 def get_all_synset_list(list):
