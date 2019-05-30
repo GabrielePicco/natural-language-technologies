@@ -1,0 +1,196 @@
+Termine: cricket; Glossa: Insetto nero o bruno, con corpo tozzo, antenne sottili e zampe posteriori adatte al salto il cui maschio produce un suono stridulo caratteristico
+Termine: sostenitore; Glossa: Sostegni è un termine utilizzato in araldica per indicare animali, o figure che sostengono lo scudo ai fianchi.
+Termine: scultura; Glossa: Opera fatta da uno scultore
+Termine: statua; Glossa: Una scultura rappresentante un uomo o un animale
+Termine: browser; Glossa: In informatica il web browser è un'applicazione per il recupero, la presentazione e la navigazione di risorse sul web.
+Termine: Mozilla Firefox; Glossa: Mozilla Firefox è un web browser libero e multipiattaforma, mantenuto da Mozilla Foundation.
+Termine: Fox Terrier; Glossa: Fox Terrier è il nome che viene dato a due distinte razze canine riconosciute inizialmente dal Kennel Club inglese.
+Termine: Canon; Glossa: Canon  è un manga di 4 volumi creato da Chika Shiomi per la Akita Shōten tra il 1994 e il 1996.
+Termine: HSBC; Glossa: HSBC Holdings plc è uno dei più grandi gruppi bancari del mondo.
+Termine: Gran Bretagna; Glossa: Regno costituito da Inghilterra, Scozia, Galles e Irlanda del Nord.
+Termine: Bibbia; Glossa: L'insieme dei libri sacri, dell'Antico e e del Nuovo Testamento.
+Termine: Vangelo; Glossa: Ciascuno dei primi quattro libri del Nuovo Testamento che contengono la vita e l'insegnamento di Ges- Cristo
+Termine: vestito; Glossa: Un abito da donna è un indumento in un unico pezzo, che copre il corpo dalle spalle alle gambe.
+Termine: danza; Glossa: L'atto o l'arte di ballare
+Termine: array; Glossa: Un array o vettore, in informatica, indica una struttura dati complessa, statica e omogenea.
+Termine: lista; Glossa: In informatica, una Lista è una struttura dati astratta e dinamica che denota una collezione omogenea o container di dati.
+Termine: cella; Glossa: La cella di una prigione, detta anche camera detentiva, è una stanza genericamente adibita alla detenzione di una o più persone.
+Termine: gattabuia; Glossa: Luogo in cui sono custoditi i condannati alla pena della reclusione o gli accusati colpiti da mandato di cattura in attesa del giudizio.
+Termine: saggio; Glossa: 
+Termine: compito a casa; Glossa: Lavoro che viene fatto a casa, comprese le esercitazioni di scuola assegnate da un insegnante.
+Termine: computer; Glossa: Un personal computer, solitamente abbreviato in PC, è un qualsiasi computer di uso generico le cui dimensioni, prestazioni e prezzo di acquisto lo rendono adatto alle esigenze del singolo individuo nell'uso quotidiano.
+Termine: macchina; Glossa: 
+Termine: panda; Glossa: Il panda minore è un mammifero dell'ordine dei carnivori, unico rappresentante vivente della famiglia Ailuridae.
+Termine: orso polare; Glossa: L'orso polare o orso bianco è un grande mammifero carnivoro appartenente alla famiglia Ursidae.
+Termine: nevrosi; Glossa: Disturbo della sfera psicofisica che si manifesta con stati di ansia, fobie, patologie comportamentali, ma non comporta perdita di coscienza o di lucidità né alienazione mentale
+Termine: mente; Glossa: Persona che eccelle.
+Termine: campagna; Glossa: Torre d'Isola è un comune italiano di 2411 abitanti della provincia di Pavia in Lombardia.
+Termine: scimmia; Glossa: La Scimmia è uno dei dodici segni dell'astrologia cinese.
+Termine: costante di Faraday; Glossa: Fisico inglese (1791-1867).
+Termine: zaino; Glossa: Borsa da portare sulla schiena
+Termine: palazzo; Glossa: Costruzione architettonica.
+Termine: grattacielo; Glossa: La casa a torre è una tipologia edilizia, evoluzione verticale della casa in linea.
+Termine: elicottero; Glossa: Aeromobile nel quale il sostentamento e la propulsione sono dati dalle pale
+Termine: aereo; Glossa: Velivolo a motore impiegato per il trasporto di passeggeri e di merci.
+Termine: Università di Cambridge; Glossa: L'Università di Cambridge è la seconda più vecchia delle università del Regno Unito dopo quella di Oxford e la quarta in Europa.
+Termine: Università di Oxford; Glossa: L'Università di Oxford è la più antica università del mondo anglosassone, la quarta università più antica d'Europa, dopo le tre antiche università italiane di Parma, Bologna e Padova.
+Termine: bandiera; Glossa: Esercizio fisico
+Termine: asta; Glossa: Barra di materiale vario.
+Termine: finestra; Glossa: La finestra è un'apertura di forma regolare, solitamente quadrata o rettangolare, praticata in una parete verticale della muratura per consentire l'ingresso della luce e lo scambio dell'aria tra il vano interno di una costruzione e l'esterno.
+Termine: tetto; Glossa: Struttura atta a coprire un edificio;struttura atta a coprire un edificio, costituita da una travatura ricoperta da embrici, tegole o altro materiale impermeabile.
+Termine: gioco di carte; Glossa: Un gioco di carte è un qualunque gioco che necessita l'uso di carte da gioco, sia tradizionali sia specifiche per il gioco.
+Termine: frisbee; Glossa: Il frisbee è un oggetto di forma rotonda con i bordi sollevati, utilizzato negli sport all'aria aperta, atto ad essere lanciato a lunga distanza ; è utilizzato per scopi ricreativi ma anche sportivi a livello agonistico.
+Termine: malware; Glossa: Malware, abbreviazione per malicious software, indica un qualsiasi programma informatico usato per disturbare le operazioni svolte da un computer, rubare informazioni sensibili, accedere a sistemi informatici privati, o mostrare pubblicità indesiderata.
+Termine: worm; Glossa: Un worm è una particolare categoria di malware in grado di autoreplicarsi.
+Termine: pianeta; Glossa: Corpo celeste che gira intorno al Sole o a un'altra stella, da cui riceve luce
+Termine: stella; Glossa: Corpo celeste caratterizzato da emissione di luce;corpo celeste.
+Termine: corridore; Glossa: Un atleta allenato, che compete in gare podistiche.
+Termine: atleta; Glossa: Sportivo, chi si dedica allo sport.
+Termine: calibro; Glossa: La quantità, la dimensione, i peso, la distanza o la capacità di una sostanza comparata ad uno standard designato.
+Termine: ombrello; Glossa: Arnese per ripararsi dalla pioggia o dal sole.
+Termine: WiFi; Glossa: Wi-Fi o WiFi è una tecnologia per reti locali senza fili che utilizza dispositivi basati sugli standard IEEE 802.11.
+Termine: WikiLeaks; Glossa: WikiLeaks è un'organizzazione internazionale senza scopo di lucro che riceve in modo anonimo, grazie a un contenitore protetto da un potente sistema di cifratura, documenti coperti da segreto e poi li carica sul proprio sito web.
+Termine: siccità; Glossa: Tempo caratterizzato da mancanza di pioggia
+Termine: acqua; Glossa: L'acqua è un composto chimico di formula molecolare H2O, in cui i due atomi di idrogeno sono legati all'atomo di ossigeno con legame covalente polare.
+Termine: aeroporto; Glossa: 
+Termine: pezzo; Glossa: La particella catastale, detta anche mappale, in Italia, è una porzione di un terreno o di un fabbricato di proprietà di uno stesso individuo o società.
+Termine: orchestra; Glossa: Insieme dei suonatori e degli strumenti musicali
+Termine: banda; Glossa: Un gruppo o complesso musicale è un sodalizio artistico composto da persone che suonano stabilmente musica insieme.
+Termine: mojito; Glossa: Il mojito è un famoso cocktail di origine cubana composto da rum, zucchero di canna, succo di limetta, foglie di mentastro verde e acqua gassata.
+Termine: mohito; Glossa: Il mojito è un famoso cocktail di origine cubana composto da rum, zucchero di canna, succo di limetta, foglie di mentastro verde e acqua gassata.
+Termine: programma; Glossa: Riassunto degli argomenti che saranno trattati in un corso.
+Termine: esame; Glossa: La prova stessa di esame, i metodi di verifica.
+Termine: teorema; Glossa: Proposizione dimostrabile
+Termine: teoria; Glossa: 
+Termine: yo-yo; Glossa: Lo yo-yo, anche conosciuto in Italia come rocchetto, è un giocattolo nonché un attrezzo di giocoleria.
+Termine: giocattolo; Glossa: Oggetto che serve per giocare;oggetto con cui ci si diverte;il giocattolo concreto.
+Termine: tormenta; Glossa: Tempo burrascoso;agitazione violenta della superficie del mare o di un lago;violenta tempesta di mare o di vento;bufera di vento accompagnata da forti precipitazioni.
+Termine: pioggia; Glossa: Precipitazione d'acqua dal cielo
+Termine: storico; Glossa: Studioso che si occupa di storia
+Termine: storiografo; Glossa: Studioso che si occupa di storia
+Termine: secolo; Glossa: Luogo periodo di tempo indeterminato
+Termine: anno; Glossa: Un anno indica un periodo di tempo pari a quello impiegato dalla Terra per completare la sua orbita attorno al Sole.
+Termine: lega; Glossa: Miscela di due o più metalli fusi
+Termine: acciaio; Glossa: Lega formata da ferro e carbonio;acciaio.
+Termine: magistrato; Glossa: Chi esercita la professione
+Termine: giudice; Glossa: Chi esercita la professione
+Termine: caos; Glossa: Situazione di disordine e confusione per mancanza o insufficienza di governo
+Termine: classe; Glossa: Fascia di popolazione contraddistinta da una medesima condizione economica e sociale e da interessi comuni;classe socio-economica.
+Termine: formazione a distanza; Glossa: La formazione a distanza è l'insieme delle attività didattiche svolte all'interno di un progetto educativo che prevede la non compresenza di docenti e discenti nello stesso luogo.
+Termine: internet; Glossa: Il ciberspazio o, meno comunemente, cyberspazio, è il dominio caratterizzato dall'uso dell'elettronica e dello spettro elettromagnetico per immagazzinare, modificare e scambiare informazioni attraverso le reti informatiche e le loro infrastrutture fisiche.
+Termine: sabbia; Glossa: Insieme incoerente di granuli
+Termine: piede; Glossa: Strato o piano sottostante al fondo visibile.
+Termine: Guardian; Glossa: Guardian è un personaggio dei fumetti Marvel Comics, del quale esistono tre versioni:
+Termine: Times; Glossa: La moltiplicazione è una delle quattro operazioni fondamentali dell'aritmetica.
+Termine: baco da seta; Glossa: Bombyx mori è una specie di farfalla della famiglia Bombycidae, originaria dell'Asia centro-orientale.
+Termine: Via della Seta; Glossa: Per via della seta s'intende il reticolo, che si sviluppava per circa 8.000 km, costituito da itinerari terrestri, marittimi e fluviali lungo i quali nell'antichità si erano snodati i commerci tra l'impero cinese e quello romano.
+Termine: libertà; Glossa: Libertas era una divinità dell'antica Roma, che personificava la Libertà.
+Termine: oasi; Glossa: Episodio di Star Trek: Enterprise
+Termine: citoplasma; Glossa: La parte della cellula che contiene il nucleo
+Termine: dito; Glossa: Le dita sono le estremità articolari delle mani e dei piedi dell'essere umano o degli animali.
+Termine: protestante; Glossa: L'insieme delle confessioni religiose che sono nate dalla riforma luterana
+Termine: cristiano; Glossa: Il cristianesimo è una religione a carattere universalistico, originatasi dal giudaismo nel I secolo, fondata sulla venuta e predicazione, contenuta nei Vangeli, di Gesù di Nazareth, inteso come figlio del Dio d'Israele e quindi Dio egli stesso, incarnato, morto e risorto per la salvezza dell'umanità, ovvero il Messia promesso, il Cristo.
+Termine: Leonardo da Vinci; Glossa: Pittore architetto scienziato scrittore (Vinci 1452-castello di Cloux, Amboise 1519)
+Termine: L'Ultima Cena; Glossa: Il Cenacolo è un dipinto parietale ottenuto con una tecnica mista a secco su intonaco di Leonardo da Vinci, databile al 1495-1498 e conservato nell'ex-refettorio rinascimentale del convento adiacente al santuario di Santa Maria delle Grazie a Milano.
+Termine: mappa; Glossa: Funzione matematica.
+Termine: piazza; Glossa: Il complesso dei compratori di determinati prodotti o servizi.
+Termine: parlamento; Glossa: Il parlamento è il corpo legislativo o assemblea legislativa dello Stato, ossia un organo complesso, costituito essenzialmente da uno o più organi collegiali di tipo assembleare, la cui funzione precipua, sebbene non unica, è l'esercizio del potere legislativo ovvero l'emanazione delle leggi secondo i dettami fissati dalla relativa Costituzione.
+Termine: congresso; Glossa: Il Congresso degli Stati Uniti d'America 
+Termine: raccolta fondi; Glossa: 
+Termine: sviluppo; Glossa: Paese il cui popolo sta cominciando a utilizzare le risorse disponibili al fine di determinare un aumento sostenuto pro capite della produzione di beni e servizi.
+Termine: patologia; Glossa: La patologia è la branca della medicina che si occupa dello studio, della cura e della prevenzione delle malattie.
+Termine: ematologia; Glossa: L'ematologia è una branca della medicina interna che si occupa del sangue e degli organi che compongono il sistema emopoietico.
+Termine: valle; Glossa: 
+Termine: depressione; Glossa: In geomorfologia il termine depressione indica una zona che si trova ad un livello più basso rispetto ad un'altra presa come riferimento.
+Termine: telescopio; Glossa: Strumento per l'osservazione di oggetti distanti.
+Termine: sedia; Glossa: 
+Termine: heavy metal; Glossa: Heavy Metal è un film del 1981, diretto da Gerald Potterton.
+Termine: palco; Glossa: Palcoscenico
+Termine: globalismo; Glossa: 
+Termine: visto; Glossa: Autorizzazione con cui uno stato straniero rende effettiva la validità di un passaporto
+Termine: pipistrello; Glossa: Pipistrellus è un genere di pipistrelli della famiglia dei Vespertilionidi.
+Termine: vampiro; Glossa: Phyllostomus hastatus è un pipistrello della famiglia dei Fillostomidi diffuso in America centrale e meridionale.
+Termine: deputato; Glossa: Ciascuno dei membri della camera dei deputati.
+Termine: dirigente; Glossa: Chi cura l'amministrazione di qualcosa.
+Termine: elettricità; Glossa: Col termine elettricità si fa riferimento genericamente a tutti i fenomeni fisici su scala macroscopica che coinvolgono una delle interazioni fondamentali, la forza elettromagnetica, con particolare riferimento all'elettrostatica.
+Termine: cassa; Glossa: 
+Termine: forestiero; Glossa: Chi appartiene a un'altra nazione
+Termine: straniero; Glossa: Chi appartiene a un'altra nazione
+Termine: bottone; Glossa: Il bottone è un piccolo oggetto, solitamente piatto e di forma tondeggiante, usato per chiudere gli abiti.
+Termine: macchina da cucire; Glossa: Macchina usata per cucire
+Termine: mago; Glossa: 
+Termine: cavo; Glossa: Corda di media grossezza, usata per guarnizione.
+Termine: filosofo; Glossa: 
+Termine: corsa; Glossa: Atto del correre
+Termine: popcorn; Glossa: Popcorn è un brano di musica elettronica, composto nel 1969 dal compositore statunitense di origini tedesche Gershon Kingsley.
+Termine: cinema; Glossa: Singolo di Benny Benassi del 2011
+Termine: agricoltura; Glossa: Arte di coltivare la terra per ricavarne prodotti utili all'uomo
+Termine: pianta; Glossa: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.
+Termine: poeta; Glossa: Chi compone poesie
+Termine: giornalista; Glossa: Professionista
+Termine: tempo; Glossa: 
+Termine: onda; Glossa: Fenomeno di propagazione
+Termine: civiltà; Glossa: Avere modi gentili e cortesi.
+Termine: stile di vita; Glossa: Modus vivendi è una locuzione latina il cui significato letterale è modo di vivere.
+Termine: neve; Glossa: Precipitazione atmosferica costituita da piccole particelle di ghiaccio
+Termine: ghiaccio; Glossa: Rugiada che a causa della bassa temperatura si  congela e si cristallizza
+Termine: Seconda Guerra Mondiale; Glossa: La seconda guerra mondiale fu il conflitto armato che tra il 1939 e il 1945 vide contrapporsi da un lato le potenze dell'Asse e dall'altro i Paesi Alleati.
+Termine: Beethoven; Glossa: Beethoven è una saga di otto film commedia per la famiglia.
+Termine: scheda madre; Glossa: Una scheda madre anche scheda di sistema, in lingua inglese motherboard mainboard, o meno conosciuta come planar board, abbreviata MB, M/B, mobo, in elettronica e informatica, è un tipo di scheda elettronica principale raccoglie in sé tutta la circuiteria elettronica e i collegamenti di interfaccia tra i vari componenti interni principali di un personal computer come memoria e le altre schede elettroniche montate o alloggiate sopra comprendendo anche i bus di espansione e le interfacce verso le periferiche esterne.
+Termine: scheda madre; Glossa: Una scheda madre anche scheda di sistema, in lingua inglese motherboard mainboard, o meno conosciuta come planar board, abbreviata MB, M/B, mobo, in elettronica e informatica, è un tipo di scheda elettronica principale raccoglie in sé tutta la circuiteria elettronica e i collegamenti di interfaccia tra i vari componenti interni principali di un personal computer come memoria e le altre schede elettroniche montate o alloggiate sopra comprendendo anche i bus di espansione e le interfacce verso le periferiche esterne.
+Termine: circolo; Glossa: Ragionamento circolare.
+Termine: marchio; Glossa: Simbolo di di una qualità intellettuale
+Termine: Alessandro Magno; Glossa: Re di Macedonia (356-323 a.C.).
+Termine: conquistatore; Glossa: Chi si impadronisce di qualcosa con la forza, con le armi
+Termine: app; Glossa: Il termine applicazione in informatica individua un programma installato o una serie di programmi in fase di esecuzione su un computer con lo scopo e il risultato di rendere possibile una o più funzionalità, servizi o strumenti utili e selezionabili su richiesta dall'utente tramite interfaccia utente, spesso attraverso un'elaborazione a partire da un input fornito dall'utente interagendo con esso.
+Termine: galassia; Glossa: In astronomia, un sistema stellare è un gruppo di stelle che orbitano intorno a un comune centro di massa.
+Termine: cloud computing; Glossa: In informatica con il termine inglese cloud computing si indica un paradigma di erogazione di risorse informatiche, come l'archiviazione, l'elaborazione o la trasmissione di dati, caratterizzato dalla disponibilità on demand attraverso Internet a partire da un insieme di risorse preesistenti e configurabili.
+Termine: pioggia; Glossa: La pioviggine è un tipo di precipitazione liquida costituita da goccioline piccolissime di pioggia.
+Termine: televisione; Glossa: Sistema di trasmissione a distanza di immagini in movimento
+Termine: attore; Glossa: Chi recita a teatro, al cinema, alla radio, alla televisione.
+Termine: delta; Glossa: Fascio di legna minuta per accendere il fuoco;fascio di legna minuta da ardere.
+Termine: mare; Glossa: L’insieme delle acque salate che circondano i continenti e le isole;il complesso delle acque salate che coprono gran parte della superficie terrestre.
+Termine: filato; Glossa: Prodotto della filatura
+Termine: filo; Glossa: Prodotto della filatura
+Termine: attraversamento pedonale; Glossa: Il deviatoio, detto anche scambio, è un dispositivo ferroviario che congiunge due o più binari, permettendo al materiale rotabile di passare dall'uno all'altro, deviandone la corsa.
+Termine: persona; Glossa: Insieme di persone cotraddistinte da una caratteristica comune: gente di campagna, di città, di cultura, di chiesa
+Termine: proteina; Glossa: Ciascuna sostanza organica azotata, con struttura complessa e peso molecolare elevato, componente fondamentale di ogni organismo vivente
+Termine: maniglia; Glossa: 
+Termine: U2; Glossa: Gli U2 sono un gruppo musicale rock irlandese formatosi a Dublino nel 1976.
+Termine: Ronaldo; Glossa: Ronaldo Luís Nazário de Lima, conosciuto semplicemente come Ronaldo, è un dirigente sportivo ed ex calciatore brasiliano, di ruolo attaccante, due volte campione del mondo con la Nazionale brasiliana.
+Termine: Apple; Glossa: Apple Inc., chiamata in precedenza Apple Computer e nota solo come Apple, è un'azienda statunitense che produce sistemi operativi, computer e dispositivi multimediali con sede a Cupertino, nello Stato della California.
+Termine: iPhone; Glossa: L'iPhone di prima generazione è uno smartphone appartenente all'omonima famiglia dell'Apple Inc., in particolare è stato il primo modello commercializzato appartenente a tale famiglia di smartphone.
+Termine: menta piperita; Glossa: La menta piperita è una pianta erbacea perenne, stolonifera, fortemente aromatica, che appartiene alla famiglia delle Labiate, e al genere Mentha.
+Termine: gomma; Glossa: 
+Termine: poster; Glossa: Un manifesto è un foglio di carta stampato che si affigge in un luogo pubblico allo scopo di comunicare qualcosa o fare pubblicità.
+Termine: carta; Glossa: Un pezzo rigido di cartone o di plastica, piatto e normalmente rettangolare.
+Termine: UNICEF; Glossa: Il Fondo delle Nazioni Unite per l'infanzia, in sigla UNICEF, è un fondo delle Nazioni Unite, organo sussidiario fondato nel dicembre 1946 per aiutare i bambini vittime della seconda guerra mondiale.
+Termine: radice; Glossa: In informatica, un albero o struttura ad albero è la struttura dati che si riconduce al concetto di albero con radice presente nella teoria dei grafi.
+Termine: xenofobia; Glossa: Sentimento di timore e avversione per gli stranieri
+Termine: razzismo; Glossa: Il termine razzismo, nella sua definizione più semplice, si riferisce ad un'idea, spesso preconcetta e comunque scientificamente errata, come dimostrato dalla genetica delle popolazioni e da molti altri approcci metodologici, che la specie umana possa essere suddivisibile in razze biologicamente distinte, caratterizzate da diverse capacità intellettive, valoriali o morali, con la conseguente convinzione che sia possibile determinare una gerarchia secondo cui un particolare, ipotetico, raggruppamento razzialmente definito possa essere definito superiore o inferiore a un altro.
+Termine: Woody Allen; Glossa: Woody Allen, pseudonimo di Heywood Allen, nato Allan Stewart Königsberg, è un regista, sceneggiatore, attore, comico, clarinettista, compositore, scrittore e commediografo statunitense, tra i principali e più celebri umoristi dell'epoca contemporanea, grazie all'intensa produzione cinematografica, ai testi comici e alle gag che ha iniziato a comporre già in età adolescenziale.
+Termine: lente; Glossa: 
+Termine: lampada; Glossa: La lampada a cherosene o lampada a petrolio è un sistema di illuminazione che sfrutta come fonte di energia la combustione del cherosene.
+Termine: genio; Glossa: Essere immaginario.
+Termine: marina militare; Glossa: La Marina Militare costituisce una delle quattro forze armate della Repubblica Italiana, insieme a Esercito Italiano, Aeronautica Militare e Arma dei Carabinieri: ad essa sono affidati il controllo e la condotta delle operazioni navali nelle acque territoriali ed internazionali.
+Termine: isola; Glossa: Piccola isola.
+Termine: muro; Glossa: La muratura, in architettura e in edilizia, è la tecnica per costruire una parete in pietre naturali o artificiali.
+Termine: castello; Glossa: Il ponteggio è una struttura reticolare provvista solitamente di impalcati.
+Termine: dinosauro; Glossa: 
+Termine: elefante; Glossa: Grande mammifero degli Ungulati con lunga proboscide e grandi zanne
+Termine: torre dell'orologio; Glossa: Una torre dell'orologio,torre ad orologioo più esattamente BIG BEN che deriva da Benjamin Ben il creatore.
+Termine: pietra; Glossa: Lo scalpellino è un operaio di cava che stacca, taglia e lavora la pietra.
+Termine: medio oriente; Glossa: Stati affacciati sul Mediterraneo orientale.
+Termine: Eufrate; Glossa: L'Eufrate è, con 2.760 km di corso, il fiume più lungo dell'Asia occidentale, ed assieme al Tigri delimita la regione detta Mesopotamia, culla di antiche civiltà quali i Babilonesi e gli Assiri.
+Termine: prato; Glossa: Il prato è un terreno agricolo inerbito per più di un anno.
+Termine: prateria; Glossa: Vasta pianura erbosa
+Termine: chitarra; Glossa: Strumento musicale a corde pizzicate
+Termine: violino; Glossa: Strumento cordofono ad arco inventato nel XVI sec., che appartiene alla famiglia della viola, del violoncello e del contrabbasso.
+Termine: diplomazia; Glossa: La diplomazia è, secondo il Dizionario enciclopedico italiano, "l'arte di trattare, per conto dello Stato, affari di politica internazionale".
+Termine: negoziato; Glossa: Il negoziare, il condurre trattative.
+Termine: gravità; Glossa: La legge di gravitazione universale di Isaac Newton afferma che nell'Universo due corpi si attraggono in modo direttamente proporzionale al prodotto delle loro masse e inversamente proporzionale alla loro distanza elevata al quadrato.
+Termine: meteora; Glossa: Striscia di luce nel cielo di notte che si verifica quando un meteoroide colpisce l'atmosfera terrestre.
+Termine: QI; Glossa: Xia Qi è il nome completo di Qi, il quale regnò, secondo la leggenda, come secondo re della dinastia Xia nel II o III millennio a.C. sull'antica Cina.
+Termine: Mensa; Glossa: Il Mensa è un'associazione internazionale senza scopo di lucro di cui possono essere membri le persone che abbiano raggiunto o superato il 98º percentile del QI.
+Termine: Union Jack; Glossa: 
+Termine: bandiera; Glossa: La bandiera nazionale è una bandiera che rappresenta una nazione.

@@ -1,0 +1,101 @@
+﻿,Word1,Word2,Val1,Val2
+0,cricket,sostenitore,1.7,0.0
+1,scultura,statua,4.0,4.0
+2,browser,Mozilla Firefox,3.8,3.2
+3,Fox Terrier,Canon,0.0,0.0
+4,HSBC,Gran Bretagna,2.0,2.2
+5,Bibbia,Vangelo,3.3,3.8
+6,vestito,danza,1.2,1.0
+7,array,lista,3.2,3.8
+8,cella,gattabuia,3.3,4.0
+9,saggio,compito a casa,0.0,2.0
+10,computer,macchina,3.1,4.0
+11,panda,orso polare,3.4,3.3
+12,nevrosi,mente,2.4,1.5
+13,campagna,scimmia,0.0,0.0
+14,costante di Faraday,zaino,0.0,0.0
+15,palazzo,grattacielo,4.0,4.0
+16,elicottero,aereo,3.1,3.2
+17,Università di Cambridge,Università di Oxford,3.5,3.3
+18,bandiera,asta,2.0,2.5
+19,finestra,tetto,2.0,2.5
+20,gioco di carte,frisbee,2.0,2.5
+21,malware,worm,3.4,3.7
+22,pianeta,stella,2.1,2.5
+23,corridore,atleta,3.4,3.5
+24,calibro,ombrello,0.0,0.0
+25,WiFi,WikiLeaks,1.1,1.0
+26,siccità,acqua,1.2,1.0
+27,aeroporto,pezzo,0.0,0.0
+28,orchestra,banda,4.0,3.8
+29,mojito,mohito,4.0,4.0
+30,programma,esame,2.0,3.2
+31,teorema,teoria,3.0,2.0
+32,yo-yo,giocattolo,3.1,3.3
+33,tormenta,pioggia,3.0,3.5
+34,storico,storiografo,3.0,3.0
+35,Siemens,treno elettrico,2.5,2.5
+36,secolo,anno,3.1,3.0
+37,lega,acciaio,3.0,3.5
+38,magistrato,giudice,4.0,3.4
+39,caos,classe,1.0,1.3
+40,formazione a distanza,internet,2.7,2.2
+41,sabbia,piede,0.7,0.0
+42,IMF,Deutsche Bank,0.9,2.8
+43,Guardian,Times,3.0,3.7
+44,baco da seta,Via della Seta,0.5,0.0
+45,libertà,oasi,0.0,0.0
+46,citoplasma,dito,0.2,0.0
+47,protestante,cristiano,3.3,2.7
+48,Leonardo da Vinci,L'Ultima Cena,1.5,1.4
+49,mappa,piazza,1.3,1.5
+50,parlamento,congresso,3.0,2.8
+51,raccolta fondi,sviluppo,1.0,0.0
+52,patologia,ematologia,2.5,2.6
+53,valle,depressione,3.7,4.0
+54,telescopio,sedia,0.0,0.0
+55,heavy metal,palco,1.6,2.7
+56,globalismo,visto,1.0,2.2
+57,pipistrello,vampiro,2.2,3.0
+58,deputato,dirigente,2.0,0.8
+59,elettricità,cassa,0.2,1.0
+60,forestiero,straniero,3.5,4.0
+61,bottone,macchina da cucire,1,0.0
+62,mago,cavo,0.0,0.0
+63,filosofo,corsa,0.0,0.0
+64,popcorn,cinema,1.5,1.0
+65,agricoltura,pianta,2.6,1.8
+66,poeta,giornalista,1.0,1.7
+67,tempo,onda,0.0,0.0
+68,civiltà,stile di vita,1.9,2.2
+69,neve,ghiaccio,3.0,3.4
+70,Seconda Guerra Mondiale,Beethoven,1.0,1.0
+71,scheda madre,scheda madre,4.0,4.0
+72,circolo,marchio,0.0,0.8
+73,Alessandro Magno,conquistatore,3.5,2.8
+74,app,galassia,0.0,0.0
+75,cloud computing,pioggia,0.0,0.0
+76,televisione,attore,1.0,1.2
+77,delta,mare,1.0,2.0
+78,filato,filo,2.3,3.0
+79,attraversamento pedonale,persona,1.0,0.0
+80,proteina,maniglia,0.0,0.0
+81,U2,Ronaldo,0.0,1.8
+82,Apple,iPhone,2.1,2.7
+83,menta piperita,gomma,0.0,1.5
+84,poster,carta,2.0,3.0
+85,UNICEF,radice,0.0,0.0
+86,xenofobia,razzismo,3.3,2.8
+87,Woody Allen,lente,0.0,0.8
+88,lampada,genio,1.0,2.0
+89,marina militare,isola,0.0,0.0
+90,muro,castello,1.6,2.3
+91,dinosauro,elefante,1.7,2.7
+92,torre dell'orologio,pietra,0.0,1.0
+93,medio oriente,Eufrate,2.5,1.8
+94,prato,prateria,3.7,3.9
+95,chitarra,violino,3.5,3.0
+96,diplomazia,negoziato,3.3,3.3
+97,gravità,meteora,2.0,2.2
+98,QI,Mensa,0.0,0.0
+99,Union Jack,bandiera,1.0,2.7

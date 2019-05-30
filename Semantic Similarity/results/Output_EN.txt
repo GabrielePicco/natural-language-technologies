@@ -1,0 +1,196 @@
+Termine: cricket; Glossa: Leaping insect; male makes chirping noises by rubbing the forewings together
+Termine: sostenitore; Glossa: In heraldry, supporters, sometimes referred to as attendants, are figures or objects usually placed on either side of the shield and depicted holding it up.
+Termine: scultura; Glossa: A three-dimensional work of plastic art
+Termine: statua; Glossa: A sculpture representing a human or animal
+Termine: browser; Glossa: A program used to view HTML documents
+Termine: Mozilla Firefox; Glossa: Mozilla Firefox is a free and open-source web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.
+Termine: Fox Terrier; Glossa: Fox Terriers are two different breeds of the terrier dog type: the Smooth Fox Terrier and the Wire Fox Terrier.
+Termine: Canon; Glossa: Canon is a Japanese shōjo manga by Chika Shiomi.
+Termine: HSBC; Glossa: HSBC Holdings PLC is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong.
+Termine: Gran Bretagna; Glossa: A monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom
+Termine: Bibbia; Glossa: The sacred writings of the Christian religions
+Termine: Vangelo; Glossa: The four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings
+Termine: vestito; Glossa: A one-piece garment for a woman; has skirt and bodice
+Termine: danza; Glossa: Taking a series of rhythmical steps (and movements) in time to music
+Termine: array; Glossa: An orderly arrangement
+Termine: lista; Glossa: Processing data that is given in the form of chained lists
+Termine: cella; Glossa: A room where a prisoner is kept
+Termine: gattabuia; Glossa: A correctional institution where persons are confined while on trial or for punishment
+Termine: saggio; Glossa: An essay (especially one written as an assignment)
+Termine: compito a casa; Glossa: A school task performed by a student to satisfy the teacher
+Termine: computer; Glossa: A small digital computer based on a microprocessor and designed to be used by one person at a time
+Termine: macchina; Glossa: Bare machine, in computer parlance, means a computer without its operating system.
+Termine: panda; Glossa: Reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas
+Termine: orso polare; Glossa: White bear of Arctic regions
+Termine: nevrosi; Glossa: A mental or personality disturbance not attributable to any known neurological or organic dysfunction
+Termine: mente; Glossa: Someone who has exceptional intellectual ability and originality
+Termine: campagna; Glossa: Torre d'Isola is a comune in the Province of Pavia in the Italian region Lombardy, located about 30 km south of Milan and about 6 km northwest of Pavia.
+Termine: scimmia; Glossa: The Monkey is the ninth of the 12-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar.
+Termine: costante di Faraday; Glossa: The English physicist and chemist who discovered electromagnetic induction (1791-1867)
+Termine: zaino; Glossa: A bag carried by a strap on your back or shoulder
+Termine: palazzo; Glossa: A structure that has a roof and walls and stands more or less permanently in one place
+Termine: grattacielo; Glossa: Tower consisting of a multistoried building of offices or apartments
+Termine: elicottero; Glossa: An aircraft without wings that obtains its lift from the rotation of overhead blades
+Termine: aereo; Glossa: An aircraft that has a fixed wing and is powered by propellers or jets
+Termine: Università di Cambridge; Glossa: A university in England
+Termine: Università di Oxford; Glossa: A university in England
+Termine: bandiera; Glossa: The human flag or bar hold is a feat of strength where the body is parallel to the ground supported by a vertical bar.
+Termine: asta; Glossa: A long (usually round) rod of wood or metal or plastic
+Termine: finestra; Glossa: A framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air
+Termine: tetto; Glossa: A protective covering that covers or forms the top of a building
+Termine: gioco di carte; Glossa: A game played with playing cards
+Termine: frisbee; Glossa: A light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
+Termine: malware; Glossa: Malware, short for malicious software, is an umbrella term used to refer to a variety of forms of harmful or intrusive software, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, scareware, and other malicious programs.
+Termine: worm; Glossa: A software program capable of reproducing itself that can spread from one computer to the next over a network
+Termine: pianeta; Glossa: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction
+Termine: stella; Glossa: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior
+Termine: corridore; Glossa: A trained athlete who competes in foot races
+Termine: atleta; Glossa: A person trained to compete in sports
+Termine: calibro; Glossa: A container of some standard capacity that is used to obtain fixed amounts of a substance
+Termine: ombrello; Glossa: A lightweight handheld collapsible canopy
+Termine: WiFi; Glossa: A local area network that uses high frequency radio signals to transmit and receive data over distances of a few hundred feet; uses ethernet protocol
+Termine: WikiLeaks; Glossa: WikiLeaks is an international non-profit organisation that publishes secret information, news leaks, and classified media provided by anonymous sources.
+Termine: siccità; Glossa: A shortage of rainfall
+Termine: acqua; Glossa: Binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent
+Termine: aeroporto; Glossa: Airport is an elevated rail station and southern terminus on the Red and Gold lines of the Metropolitan Atlanta Rapid Transit Authority rail system, located at Hartsfield Jackson Atlanta International Airport.
+Termine: pezzo; Glossa: A small area of ground covered by specific vegetation
+Termine: orchestra; Glossa: A musical organization consisting of a group of instrumentalists including string players
+Termine: banda; Glossa: Instrumentalists not including string players
+Termine: mojito; Glossa: Mojito is a traditional Cuban highball.
+Termine: mohito; Glossa: Mojito is a traditional Cuban highball.
+Termine: programma; Glossa: A syllabus is an academic document that communicates course information and defines expectations and responsibilities.
+Termine: esame; Glossa: A set of questions or exercises evaluating skill or knowledge
+Termine: teorema; Glossa: A proposition deducible from basic postulates
+Termine: teoria; Glossa: In mathematical logic, a theory is a set of sentences in a formal language.
+Termine: yo-yo; Glossa: A toy consisting of a spool that is reeled up and down on a string by motions of the hand
+Termine: giocattolo; Glossa: An artifact designed to be played with
+Termine: tormenta; Glossa: A violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning
+Termine: pioggia; Glossa: Water falling in drops from vapor condensed in the atmosphere
+Termine: storico; Glossa: A person who is an authority on history and who studies it and writes about it
+Termine: storiografo; Glossa: A person who is an authority on history and who studies it and writes about it
+Termine: secolo; Glossa: A prolonged period of time
+Termine: anno; Glossa: Time of the earth's revolution from perihelion to perihelion again; 365 days and 6 hr and 13 min and 53.1 sec
+Termine: lega; Glossa: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten
+Termine: acciaio; Glossa: An alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range
+Termine: magistrato; Glossa: A public official authorized to decide questions brought before a court of justice
+Termine: giudice; Glossa: A public official authorized to decide questions brought before a court of justice
+Termine: caos; Glossa: A state of lawlessness and disorder (usually resulting from a failure of government)
+Termine: classe; Glossa: People having the same social, economic, or educational status
+Termine: formazione a distanza; Glossa: A course offered (by mail) by a correspondence school
+Termine: internet; Glossa: A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange
+Termine: sabbia; Glossa: A loose material consisting of grains of rock or coral
+Termine: piede; Glossa: Lowest support of a structure
+Termine: Guardian; Glossa: Guardian, also known as Weapon Alpha and Vindicator, is a fictional character, a superhero appearing in American comic books published by Marvel Comics.
+Termine: Times; Glossa: An arithmetic operation that is the inverse of division; the product of two numbers is computed
+Termine: baco da seta; Glossa: Stocky creamy-white Asiatic moth found almost entirely under human care; the source of most of the silk commerce
+Termine: Via della Seta; Glossa: An ancient trade route between China and the Mediterranean (4,000 miles); followed by Marco Polo in the 13th century to reach Cathay
+Termine: libertà; Glossa: Libertas is the Roman goddess and embodiment of liberty.
+Termine: oasi; Glossa: "Oasis" is the Twentieth episode of the television series Star Trek: Enterprise.
+Termine: citoplasma; Glossa: The protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism
+Termine: dito; Glossa: A finger or toe in human beings or corresponding body part in other vertebrates
+Termine: protestante; Glossa: The theological system of any of the churches of western Christendom that separated from the Roman Catholic Church during the Reformation
+Termine: cristiano; Glossa: A monotheistic system of beliefs and practices based on the Old Testament and the teachings of Jesus as embodied in the New Testament and emphasizing the role of Jesus as savior
+Termine: Leonardo da Vinci; Glossa: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the Italian Renaissance (1452-1519)
+Termine: L'Ultima Cena; Glossa: The Last Supper is a late 15th-century mural painting by Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan.
+Termine: mappa; Glossa: (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+Termine: piazza; Glossa: The customers for a particular product or service
+Termine: parlamento; Glossa: A legislative assembly in certain countries
+Termine: congresso; Glossa: The legislature of the United States government
+Termine: raccolta fondi; Glossa: A contribution made to a politician or a political campaign or a political party
+Termine: sviluppo; Glossa: A country that is poor and whose citizens are mostly agricultural workers but that wants to become more advanced socially and economically
+Termine: patologia; Glossa: Any deviation from a healthy or normal condition
+Termine: ematologia; Glossa: The branch of medicine that deals with diseases of the blood and blood-forming organs
+Termine: valle; Glossa: A small valley between mountains
+Termine: depressione; Glossa: A sunken or depressed geological formation
+Termine: telescopio; Glossa: A magnifier of images of distant objects
+Termine: sedia; Glossa: A wheelchair usually pushed by an attendant, as at a spa
+Termine: heavy metal; Glossa: Heavy Metal is a 1981 Canadian-American adult animated sci-fi-fantasy film directed by Gerald Potterton, produced by Ivan Reitman and Leonard Mogel, who also was the publisher of Heavy Metal magazine, which was the basis for the film, and starring the voices of Rodger Bumpass, Jackie Burroughs, John Candy, Joe Flaherty, Don Francks, Martin Lavut, Marilyn Lightstone, Eugene Levy, Alice Playten, Harold Ramis, Percy Rodriguez, Susan Roman, Richard Romanus, August Schellenberg, John Vernon, and Zal Yanovsky.
+Termine: palco; Glossa: A large platform on which people can stand and can be seen by an audience
+Termine: globalismo; Glossa: Globalism is a group of ideologies that advocate the concept of globalization.
+Termine: visto; Glossa: An endorsement made in a passport that allows the bearer to enter the country issuing it
+Termine: pipistrello; Glossa: Nearly cosmopolitan genus of very small bats
+Termine: vampiro; Glossa: A variety of leaf-nosed bat
+Termine: deputato; Glossa: A member of the United States House of Representatives
+Termine: dirigente; Glossa: Someone who manages a government agency or department
+Termine: elettricità; Glossa: A physical phenomenon associated with stationary or moving electrons and protons
+Termine: cassa; Glossa: A resonating chamber in a musical instrument (as the body of a violin)
+Termine: forestiero; Glossa: A person who comes from a foreign country; someone who does not owe allegiance to your country
+Termine: straniero; Glossa: A person who comes from a foreign country; someone who does not owe allegiance to your country
+Termine: bottone; Glossa: A round fastener sewn to shirts and coats etc to fit through buttonholes
+Termine: macchina da cucire; Glossa: A textile machine used as a home appliance for sewing
+Termine: mago; Glossa: Wizard is commonly used in MUDs, particularly LPMuds, AberMUDs and MU*, as a term for the MUD's developers and administrators.
+Termine: cavo; Glossa: A strong line
+Termine: filosofo; Glossa: A wise person who is calm and rational; someone who lives a life of reason with equanimity
+Termine: corsa; Glossa: The act of running; traveling on foot at a fast pace
+Termine: popcorn; Glossa: "Popcorn" is an early synth-pop instrumental, composed by Gershon Kingsley in 1969 and first appearing on his album Music to Moog By.
+Termine: cinema; Glossa: "Cinema" is a song by Italian DJ and electro house music producer Benny Benassi and British recording artist and songwriter Gary Go.
+Termine: agricoltura; Glossa: The practice of cultivating the land or raising stock
+Termine: pianta; Glossa: (botany) a living organism lacking the power of locomotion
+Termine: poeta; Glossa: A writer of poems (the term is usually reserved for writers of good poetry)
+Termine: giornalista; Glossa: A writer for newspapers and magazines
+Termine: tempo; Glossa: Time in physics is defined by its measurement: time is what a clock reads.
+Termine: onda; Glossa: (physics) a movement up and down or back and forth
+Termine: civiltà; Glossa: The act of showing regard for others
+Termine: stile di vita; Glossa: A manner of living that reflects the person's values and attitudes
+Termine: neve; Glossa: Precipitation falling from clouds in the form of ice crystals
+Termine: ghiaccio; Glossa: Ice crystals forming a white deposit (especially on objects outside)
+Termine: Seconda Guerra Mondiale; Glossa: A war between the Allies (Australia, Belgium, Bolivia, Brazil, Canada, China, Colombia, Costa Rica, Cuba, Czechoslovakia, Dominican Republic, El Salvador, Ethiopia, France, Greece, Guatemala, Haiti, Honduras, India, Iran, Iraq, Luxembourg, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Philippines, Poland, South Africa, United Kingdom, United States, USSR, Yugoslavia) and the Axis (Albania, Bulgaria, Finland, Germany, Hungary, Italy, Japan, Rumania, Slovakia, Thailand) from 1939 to 1945
+Termine: Beethoven; Glossa: The Beethoven film series is a series of eight American films, in which the plot revolves around a family attempting to control the antics of their pet, a Saint Bernard.
+Termine: scheda madre; Glossa: The main circuit board for a computer
+Termine: scheda madre; Glossa: The main circuit board for a computer
+Termine: circolo; Glossa: Useless repetition
+Termine: marchio; Glossa: A symbol of disgrace or infamy--Genesis
+Termine: Alessandro Magno; Glossa: King of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)
+Termine: conquistatore; Glossa: Someone who is victorious by force of arms
+Termine: app; Glossa: A program that gives a computer instructions that provide the user with tools to accomplish a task
+Termine: galassia; Glossa: A system of three or more stars associated by gravity
+Termine: cloud computing; Glossa: Cloud computing is an information technology paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+Termine: pioggia; Glossa: Very light rain; stronger than mist but less than a shower
+Termine: televisione; Glossa: Broadcasting visual images of stationary or moving objects - Ernie Kovacs
+Termine: attore; Glossa: Actor who plays the leading male role
+Termine: delta; Glossa: A low triangular area of alluvial deposits where a river divides before entering a larger body of water
+Termine: mare; Glossa: A division of an ocean or a large body of salt water partially enclosed by land
+Termine: filato; Glossa: A fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving
+Termine: filo; Glossa: A fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving
+Termine: attraversamento pedonale; Glossa: A path (often marked) where something (as a street or railroad) can be crossed to get from one side to the other
+Termine: persona; Glossa: (plural) any group of human beings (men or women or children) collectively
+Termine: proteina; Glossa: Any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes
+Termine: maniglia; Glossa: A round handle
+Termine: U2; Glossa: U2 are an Irish rock band from Dublin formed in 1976.
+Termine: Ronaldo; Glossa: Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, is a retired Brazilian professional footballer who played as a striker.
+Termine: Apple; Glossa: Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services.
+Termine: iPhone; Glossa: The iPhone is the first smartphone model designed and marketed by Apple Inc.
+Termine: menta piperita; Glossa: Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring
+Termine: gomma; Glossa: Any of various substances (soluble in water) that exude from certain plants; they are gelatinous when moist but harden on drying
+Termine: poster; Glossa: A poster is any piece of printed paper designed to be attached to a wall or vertical surface.
+Termine: carta; Glossa: A rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)
+Termine: UNICEF; Glossa: An agency of the United Nations responsible for programs to aid education and the health of children and mothers in developing countries
+Termine: radice; Glossa: In computer science, a tree is a widely used abstract data type —or data structure implementing this ADT—that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.
+Termine: xenofobia; Glossa: A fear of foreigners or strangers
+Termine: razzismo; Glossa: Discriminatory or abusive behavior towards members of another race
+Termine: Woody Allen; Glossa: United States filmmaker and comic actor (1935-)
+Termine: lente; Glossa: In 2-dimensional geometry, a lens is a convex set bounded by two circular arcs joined to each other at their endpoints.
+Termine: lampada; Glossa: A lamp that burns oil (as kerosine) for light
+Termine: genio; Glossa: (Islam) an invisible spirit mentioned in the Koran and believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals
+Termine: marina militare; Glossa: The Italian Navy is the maritime defence force of the Italian Republic.
+Termine: isola; Glossa: A small island
+Termine: muro; Glossa: Structure built of stone or brick by a mason
+Termine: castello; Glossa: A system of scaffolds
+Termine: dinosauro; Glossa: Dinosaur is a dark ride EMV attraction at Disney's Animal Kingdom in Walt Disney World, Lake Buena Vista, Florida.
+Termine: elefante; Glossa: Five-toed pachyderm
+Termine: torre dell'orologio; Glossa: A tower with a large clock visible high up on an outside face
+Termine: pietra; Glossa: Masonry done with stone
+Termine: medio oriente; Glossa: The area around the eastern Mediterranean; from Turkey to northern Africa and eastward to Iran; the site of such ancient civilizations as Phoenicia and Babylon and Egypt and the birthplace of Judaism and Christianity and Islam; had continuous economic and political turmoil in the 20th century
+Termine: Eufrate; Glossa: A river in southwestern Asia; flows into the Persian Gulf; was important in the development of several great civilizations in ancient Mesopotamia
+Termine: prato; Glossa: A field where grass or alfalfa are grown to be made into hay
+Termine: prateria; Glossa: A treeless grassy plain
+Termine: chitarra; Glossa: A stringed instrument usually having six strings; played by strumming or plucking
+Termine: violino; Glossa: Bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow
+Termine: diplomazia; Glossa: Negotiation between nations
+Termine: negoziato; Glossa: A discussion intended to produce an agreement
+Termine: gravità; Glossa: (physics) the law that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+Termine: meteora; Glossa: A streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or explode
+Termine: QI; Glossa: Qi was a Chinese king, the son of Yu the Great and the second sovereign of the Xia Dynasty.
+Termine: Mensa; Glossa: Mensa is the largest and oldest high IQ society in the world.
+Termine: Union Jack; Glossa: National flag of the United Kingdom
+Termine: bandiera; Glossa: An emblem flown as a symbol of nationality

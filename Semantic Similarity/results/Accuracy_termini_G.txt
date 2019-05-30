@@ -1,0 +1,196 @@
+0 Term: cricket; Gloss: Leaping insect; male makes chirping noises by rubbing the forewings together
+1 Term: sostenitore; Gloss: In heraldry, supporters, sometimes referred to as attendants, are figures or objects usually placed on either side of the shield and depicted holding it up.
+1 Term: scultura; Gloss: A three-dimensional work of plastic art
+1 Term: statua; Gloss: A sculpture representing a human or animal
+1 Term: browser; Gloss: A program used to view HTML documents
+1 Term: Mozilla Firefox; Gloss: Mozilla Firefox is a free and open-source web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.
+1 Term: Fox Terrier; Gloss: Fox Terriers are two different breeds of the terrier dog type: the Smooth Fox Terrier and the Wire Fox Terrier.
+0 Term: Canon; Gloss: Canon is a Japanese shojo manga by Chika Shiomi.
+1 Term: HSBC; Gloss: HSBC Holdings PLC is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong.
+1 Term: Gran Bretagna; Gloss: A monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom
+1 Term: Bibbia; Gloss: The sacred writings of the Christian religions
+1 Term: Vangelo; Gloss: The four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings
+1 Term: vestito; Gloss: A one-piece garment for a woman; has skirt and bodice
+1 Term: danza; Gloss: Taking a series of rhythmical steps (and movements) in time to music
+1 Term: array; Gloss: An orderly arrangement
+1 Term: lista; Gloss: Processing data that is given in the form of chained lists
+1 Term: cella; Gloss: A room where a prisoner is kept
+1 Term: gattabuia; Gloss: A correctional institution where persons are confined while on trial or for punishment
+0 Term: saggio; Gloss: An essay (especially one written as an assignment)
+1 Term: compito a casa; Gloss: A school task performed by a student to satisfy the teacher
+1 Term: computer; Gloss: A small digital computer based on a microprocessor and designed to be used by one person at a time
+0 Term: macchina; Gloss: Bare machine, in computer parlance, means a computer without its operating system.
+1 Term: panda; Gloss: Reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas
+1 Term: orso polare; Gloss: White bear of Arctic regions
+1 Term: nevrosi; Gloss: A mental or personality disturbance not attributable to any known neurological or organic dysfunction
+0 Term: mente; Gloss: Someone who has exceptional intellectual ability and originality
+0 Term: campagna; Gloss: Torre d'Isola is a comune in the Province of Pavia in the Italian region Lombardy, located about 30 km south of Milan and about 6 km northwest of Pavia.
+0 Term: scimmia; Gloss: The Monkey is the ninth of the 12-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar.
+1 Term: costante di Faraday; Gloss: The English physicist and chemist who discovered electromagnetic induction (1791-1867)
+1 Term: zaino; Gloss: A bag carried by a strap on your back or shoulder
+1 Term: palazzo; Gloss: A structure that has a roof and walls and stands more or less permanently in one place
+1 Term: grattacielo; Gloss: Tower consisting of a multistoried building of offices or apartments
+1 Term: elicottero; Gloss: An aircraft without wings that obtains its lift from the rotation of overhead blades
+1 Term: aereo; Gloss: An aircraft that has a fixed wing and is powered by propellers or jets
+1 Term: Universit� di Cambridge; Gloss: A university in England
+1 Term: Universit� di Oxford; Gloss: A university in England
+0 Term: bandiera; Gloss: The human flag or bar hold is a feat of strength where the body is parallel to the ground supported by a vertical bar.
+1 Term: asta; Gloss: A long (usually round) rod of wood or metal or plastic
+1 Term: finestra; Gloss: A framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air
+1 Term: tetto; Gloss: A protective covering that covers or forms the top of a building
+1 Term: gioco di carte; Gloss: A game played with playing cards
+1 Term: frisbee; Gloss: A light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
+1 Term: malware; Gloss: Malware, short for malicious software, is an umbrella term used to refer to a variety of forms of harmful or intrusive software, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, scareware, and other malicious programs.
+1 Term: worm; Gloss: A software program capable of reproducing itself that can spread from one computer to the next over a network
+1 Term: pianeta; Gloss: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction
+1 Term: stella; Gloss: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior
+1 Term: corridore; Gloss: A trained athlete who competes in foot races
+1 Term: atleta; Gloss: A person trained to compete in sports
+0 Term: calibro; Gloss: A container of some standard capacity that is used to obtain fixed amounts of a substance
+1 Term: ombrello; Gloss: A lightweight handheld collapsible canopy
+1 Term: WiFi; Gloss: A local area network that uses high frequency radio signals to transmit and receive data over distances of a few hundred feet; uses ethernet protocol
+1 Term: WikiLeaks; Gloss: WikiLeaks is an international non-profit organisation that publishes secret information, news leaks, and classified media provided by anonymous sources.
+1 Term: siccit�; Gloss: A shortage of rainfall
+1 Term: acqua; Gloss: Binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent
+0 Term: aeroporto; Gloss: Airport is an elevated rail station and southern terminus on the Red and Gold lines of the Metropolitan Atlanta Rapid Transit Authority rail system, located at Hartsfield Jackson Atlanta International Airport.
+0 Term: pezzo; Gloss: A small area of ground covered by specific vegetation
+1 Term: orchestra; Gloss: A musical organization consisting of a group of instrumentalists including string players
+1 Term: banda; Gloss: Instrumentalists not including string players
+1 Term: mojito; Gloss: Mojito is a traditional Cuban highball.
+1 Term: mohito; Gloss: Mojito is a traditional Cuban highball.
+0 Term: programma; Gloss: A syllabus is an academic document that communicates course information and defines expectations and responsibilities.
+1 Term: esame; Gloss: A set of questions or exercises evaluating skill or knowledge
+1 Term: teorema; Gloss: A proposition deducible from basic postulates
+0 Term: teoria; Gloss: In mathematical logic, a theory is a set of sentences in a formal language.
+1 Term: yo-yo; Gloss: A toy consisting of a spool that is reeled up and down on a string by motions of the hand
+1 Term: giocattolo; Gloss: An artifact designed to be played with
+1 Term: tormenta; Gloss: A violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning
+1 Term: pioggia; Gloss: Water falling in drops from vapor condensed in the atmosphere
+1 Term: storico; Gloss: A person who is an authority on history and who studies it and writes about it
+0 Term: storiografo; Gloss: A person who is an authority on history and who studies it and writes about it
+1 Term: secolo; Gloss: A prolonged period of time
+1 Term: anno; Gloss: Time of the earth's revolution from perihelion to perihelion again; 365 days and 6 hr and 13 min and 53.1 sec
+1 Term: lega; Gloss: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten
+1 Term: acciaio; Gloss: An alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range
+1 Term: magistrato; Gloss: A public official authorized to decide questions brought before a court of justice
+1 Term: giudice; Gloss: A public official authorized to decide questions brought before a court of justice
+1 Term: caos; Gloss: A state of lawlessness and disorder (usually resulting from a failure of government)
+0 Term: classe; Gloss: People having the same social, economic, or educational status
+1 Term: formazione a distanza; Gloss: A course offered (by mail) by a correspondence school
+1 Term: internet; Gloss: A computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange
+1 Term: sabbia; Gloss: A loose material consisting of grains of rock or coral
+0 Term: piede; Gloss: Lowest support of a structure
+0 Term: Guardian; Gloss: Guardian, also known as Weapon Alpha and Vindicator, is a fictional character, a superhero appearing in American comic books published by Marvel Comics.
+0 Term: Times; Gloss: An arithmetic operation that is the inverse of division; the product of two numbers is computed
+1 Term: baco da seta; Gloss: Stocky creamy-white Asiatic moth found almost entirely under human care; the source of most of the silk commerce
+1 Term: Via della Seta; Gloss: An ancient trade route between China and the Mediterranean (4,000 miles); followed by Marco Polo in the 13th century to reach Cathay
+0 Term: libert�; Gloss: Libertas is the Roman goddess and embodiment of liberty.
+0 Term: oasi; Gloss: "Oasis" is the Twentieth episode of the television series Star Trek: Enterprise.
+1 Term: citoplasma; Gloss: The protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism
+1 Term: dito; Gloss: A finger or toe in human beings or corresponding body part in other vertebrates
+1 Term: protestante; Gloss: The theological system of any of the churches of western Christendom that separated from the Roman Catholic Church during the Reformation
+1 Term: cristiano; Gloss: A monotheistic system of beliefs and practices based on the Old Testament and the teachings of Jesus as embodied in the New Testament and emphasizing the role of Jesus as savior
+1 Term: Leonardo da Vinci; Gloss: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the Italian Renaissance (1452-1519)
+1 Term: L'Ultima Cena; Gloss: The Last Supper is a late 15th-century mural painting by Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan.
+0 Term: mappa; Gloss: (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+0 Term: piazza; Gloss: The customers for a particular product or service
+1 Term: parlamento; Gloss: A legislative assembly in certain countries
+0 Term: congresso; Gloss: The legislature of the United States government
+1 Term: raccolta fondi; Gloss: A contribution made to a politician or a political campaign or a political party
+1 Term: sviluppo; Gloss: A country that is poor and whose citizens are mostly agricultural workers but that wants to become more advanced socially and economically
+1 Term: patologia; Gloss: Any deviation from a healthy or normal condition
+1 Term: ematologia; Gloss: The branch of medicine that deals with diseases of the blood and blood-forming organs
+1 Term: valle; Gloss: A small valley between mountains
+0 Term: depressione; Gloss: A sunken or depressed geological formation
+1 Term: telescopio; Gloss: A magnifier of images of distant objects
+0 Term: sedia; Gloss: A wheelchair usually pushed by an attendant, as at a spa
+0 Term: heavy metal; Gloss: Heavy Metal is a 1981 Canadian-American adult animated sci-fi-fantasy film directed by Gerald Potterton, produced by Ivan Reitman and Leonard Mogel, who also was the publisher of Heavy Metal magazine, which was the basis for the film, and starring the voices of Rodger Bumpass, Jackie Burroughs, John Candy, Joe Flaherty, Don Francks, Martin Lavut, Marilyn Lightstone, Eugene Levy, Alice Playten, Harold Ramis, Percy Rodriguez, Susan Roman, Richard Romanus, August Schellenberg, John Vernon, and Zal Yanovsky.
+1 Term: palco; Gloss: A large platform on which people can stand and can be seen by an audience
+1 Term: globalismo; Gloss: Globalism is a group of ideologies that advocate the concept of globalization.
+0 Term: visto; Gloss: An endorsement made in a passport that allows the bearer to enter the country issuing it
+1 Term: pipistrello; Gloss: Nearly cosmopolitan genus of very small bats
+0 Term: vampiro; Gloss: A variety of leaf-nosed bat
+0 Term: deputato; Gloss: A member of the United States House of Representatives
+1 Term: dirigente; Gloss: Someone who manages a government agency or department
+1 Term: elettricit�; Gloss: A physical phenomenon associated with stationary or moving electrons and protons
+1 Term: cassa; Gloss: A resonating chamber in a musical instrument (as the body of a violin)
+1 Term: forestiero; Gloss: A person who comes from a foreign country; someone who does not owe allegiance to your country
+1 Term: straniero; Gloss: A person who comes from a foreign country; someone who does not owe allegiance to your country
+1 Term: bottone; Gloss: A round fastener sewn to shirts and coats etc to fit through buttonholes
+1 Term: macchina da cucire; Gloss: A textile machine used as a home appliance for sewing
+0 Term: mago; Gloss: Wizard is commonly used in MUDs, particularly LPMuds, AberMUDs and MU*, as a term for the MUD's developers and administrators.
+1 Term: cavo; Gloss: A strong line
+1 Term: filosofo; Gloss: A wise person who is calm and rational; someone who lives a life of reason with equanimity
+1 Term: corsa; Gloss: The act of running; traveling on foot at a fast pace
+0 Term: popcorn; Gloss: "Popcorn" is an early synth-pop instrumental, composed by Gershon Kingsley in 1969 and first appearing on his album Music to Moog By.
+0 Term: cinema; Gloss: "Cinema" is a song by Italian DJ and electro house music producer Benny Benassi and British recording artist and songwriter Gary Go.
+1 Term: agricoltura; Gloss: The practice of cultivating the land or raising stock
+1 Term: pianta; Gloss: (botany) a living organism lacking the power of locomotion
+1 Term: poeta; Gloss: A writer of poems (the term is usually reserved for writers of good poetry)
+1 Term: giornalista; Gloss: A writer for newspapers and magazines
+1 Term: tempo; Gloss: Time in physics is defined by its measurement: time is what a clock reads.
+0 Term: onda; Gloss: (physics) a movement up and down or back and forth
+0 Term: civilt�; Gloss: The act of showing regard for others
+1 Term: stile di vita; Gloss: A manner of living that reflects the person's values and attitudes
+1 Term: neve; Gloss: Precipitation falling from clouds in the form of ice crystals
+1 Term: ghiaccio; Gloss: Ice crystals forming a white deposit (especially on objects outside)
+1 Term: Seconda Guerra Mondiale; Gloss: A war between the Allies (Australia, Belgium, Bolivia, Brazil, Canada, China, Colombia, Costa Rica, Cuba, Czechoslovakia, Dominican Republic, El Salvador, Ethiopia, France, Greece, Guatemala, Haiti, Honduras, India, Iran, Iraq, Luxembourg, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Philippines, Poland, South Africa, United Kingdom, United States, USSR, Yugoslavia) and the Axis (Albania, Bulgaria, Finland, Germany, Hungary, Italy, Japan, Rumania, Slovakia, Thailand) from 1939 to 1945
+0 Term: Beethoven; Gloss: The Beethoven film series is a series of eight American films, in which the plot revolves around a family attempting to control the antics of their pet, a Saint Bernard.
+1 Term: scheda madre; Gloss: The main circuit board for a computer
+1 Term: scheda madre; Gloss: The main circuit board for a computer
+0 Term: circolo; Gloss: Useless repetition
+0 Term: marchio; Gloss: A symbol of disgrace or infamy--Genesis
+1 Term: Alessandro Magno; Gloss: King of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)
+1 Term: conquistatore; Gloss: Someone who is victorious by force of arms
+1 Term: app; Gloss: A program that gives a computer instructions that provide the user with tools to accomplish a task
+1 Term: galassia; Gloss: A system of three or more stars associated by gravity
+1 Term: cloud computing; Gloss: Cloud computing is an information technology paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+1 Term: pioggia; Gloss: Very light rain; stronger than mist but less than a shower
+0 Term: televisione; Gloss: Broadcasting visual images of stationary or moving objects - Ernie Kovacs
+1 Term: attore; Gloss: Actor who plays the leading male role
+0 Term: delta; Gloss: A low triangular area of alluvial deposits where a river divides before entering a larger body of water
+1 Term: mare; Gloss: A division of an ocean or a large body of salt water partially enclosed by land
+1 Term: filato; Gloss: A fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving
+1 Term: filo; Gloss: A fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving
+1 Term: attraversamento pedonale; Gloss: A path (often marked) where something (as a street or railroad) can be crossed to get from one side to the other
+1 Term: persona; Gloss: (plural) any group of human beings (men or women or children) collectively
+1 Term: proteina; Gloss: Any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes
+1 Term: maniglia; Gloss: A round handle
+1 Term: U2; Gloss: U2 are an Irish rock band from Dublin formed in 1976.
+1 Term: Ronaldo; Gloss: Ronaldo Lu�s Naz�rio de Lima, commonly known as Ronaldo, is a retired Brazilian professional footballer who played as a striker.
+1 Term: Apple; Gloss: Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services.
+1 Term: iPhone; Gloss: The iPhone is the first smartphone model designed and marketed by Apple Inc.
+1 Term: menta piperita; Gloss: Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring
+0 Term: gomma; Gloss: Any of various substances (soluble in water) that exude from certain plants; they are gelatinous when moist but harden on drying
+1 Term: poster; Gloss: A poster is any piece of printed paper designed to be attached to a wall or vertical surface.
+1 Term: carta; Gloss: A rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)
+1 Term: UNICEF; Gloss: An agency of the United Nations responsible for programs to aid education and the health of children and mothers in developing countries
+0 Term: radice; Gloss: In computer science, a tree is a widely used abstract data type �or data structure implementing this ADT�that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.
+1 Term: xenofobia; Gloss: A fear of foreigners or strangers
+1 Term: razzismo; Gloss: Discriminatory or abusive behavior towards members of another race
+1 Term: Woody Allen; Gloss: United States filmmaker and comic actor (1935-)
+0 Term: lente; Gloss: In 2-dimensional geometry, a lens is a convex set bounded by two circular arcs joined to each other at their endpoints.
+0 Term: lampada; Gloss: A lamp that burns oil (as kerosine) for light
+0 Term: genio; Gloss: (Islam) an invisible spirit mentioned in the Koran and believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals
+1 Term: marina militare; Gloss: The Italian Navy is the maritime defence force of the Italian Republic.
+1 Term: isola; Gloss: A small island
+1 Term: muro; Gloss: Structure built of stone or brick by a mason
+0 Term: castello; Gloss: A system of scaffolds
+0 Term: dinosauro; Gloss: Dinosaur is a dark ride EMV attraction at Disney's Animal Kingdom in Walt Disney World, Lake Buena Vista, Florida.
+1 Term: elefante; Gloss: Five-toed pachyderm
+0 Term: torre dell'orologio; Gloss: A tower with a large clock visible high up on an outside face
+0 Term: pietra; Gloss: Masonry done with stone
+1 Term: medio oriente; Gloss: The area around the eastern Mediterranean; from Turkey to northern Africa and eastward to Iran; the site of such ancient civilizations as Phoenicia and Babylon and Egypt and the birthplace of Judaism and Christianity and Islam; had continuous economic and political turmoil in the 20th century
+1 Term: Eufrate; Gloss: A river in southwestern Asia; flows into the Persian Gulf; was important in the development of several great civilizations in ancient Mesopotamia
+0 Term: prato; Gloss: A field where grass or alfalfa are grown to be made into hay
+1 Term: prateria; Gloss: A treeless grassy plain
+1 Term: chitarra; Gloss: A stringed instrument usually having six strings; played by strumming or plucking
+1 Term: violino; Gloss: Bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow
+1 Term: diplomazia; Gloss: Negotiation between nations
+1 Term: negoziato; Gloss: A discussion intended to produce an agreement
+1 Term: gravit�; Gloss: (physics) the law that states any two bodies attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them
+0 Term: meteora; Gloss: A streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or explode
+0 Term: QI; Gloss: Qi was a Chinese king, the son of Yu the Great and the second sovereign of the Xia Dynasty.
+0 Term: Mensa; Gloss: Mensa is the largest and oldest high IQ society in the world.
+1 Term: Union Jack; Gloss: National flag of the United Kingdom
+1 Term: bandiera; Gloss: An emblem flown as a symbol of nationality
