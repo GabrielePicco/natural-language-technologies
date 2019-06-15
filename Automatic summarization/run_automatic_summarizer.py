@@ -1,4 +1,5 @@
 import os
+
 from automatic_summarizer import Summarizer, Granularity
 
 NASARI_PATH = "./data/nasari_small.txt"
@@ -15,4 +16,3 @@ for document in DOCUMENTS:
 for document in DOCUMENTS:
     sm = summarizer.summarize_document(document, percentage=0.3, granularity=Granularity.SENTENCE)
     print(sm, file=open(os.path.join(OUTPUT_FOLDER, "sentence", os.path.basename(document)), 'w'))
-

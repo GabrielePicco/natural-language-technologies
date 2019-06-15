@@ -1,16 +1,16 @@
 import csv
 import functools
 import re
-import string
 from enum import Enum
 from itertools import product
 
 import pandas as pd
-from nltk import PorterStemmer
+from nltk import word_tokenize, pos_tag
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize
 
-from utility import timeit
+from data.utility.lemmatization_utility import lemmatize_word
+from data.utility.utility import timeit, freezeargs
 
 
 class Granularity(Enum):
@@ -97,10 +97,11 @@ class Summarizer:
         :param p_text: text of the paragraph
         :return: dict{word: freq}
         """
-        p_text = p_text.translate(str.maketrans('', '', string.punctuation))
-        stemmer = PorterStemmer()
-        splitted_text = map(stemmer.stem, p_text.lower().split())
-        splitted_text = [word for word in splitted_text if word not in stopwords.words("english")]
+        p_text = ''.join(filter(lambda x: (str.isalpha(x) or x == " "), p_text))
+        words_token = word_tokenize(p_text)
+        pos_tag_dict = dict(pos_tag(words_token))
+        splitted_text = [lemmatize_word(w, pos_tag_dict[w]).lower() for w in words_token
+                         if w not in stopwords.words("english") if len(w) > 2]
         return {i: splitted_text.count(i) for i in set(splitted_text)}
 
     def __compute_cohesion(self, df_document):
@@ -151,6 +152,7 @@ class Summarizer:
             return 0
         return max([self.__word_overlapse(*ns) for ns in product(ns1, ns2)])
 
+    @functools.lru_cache()
     def __get_nasari(self, w):
         """
         Return the corresponding Nasari vectors given a word
@@ -160,6 +162,8 @@ class Summarizer:
         return list(self.nasari[self.nasari['Lemma'] == w]['Features'])
 
     @staticmethod
+    @freezeargs
+    @functools.lru_cache()
     def __word_overlapse(v1, v2):
         """
         Compute the overlapse between two nasari vector
