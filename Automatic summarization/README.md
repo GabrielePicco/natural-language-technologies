@@ -8,7 +8,7 @@ In this repository there is an implementation of an extraction-based summarizati
 
 Cohesion is calculated by adding the internal cohesion between each paragraph (or sentence depending on the selected granularity) to each other.
 
-Internal cohesion is calculated by preprocessing the paragraphs or sentences in a dictionary composed of the words and the frequencies in which they appear. Then the similarity between each combination of words in the two segments is calculated and multiplied by the frequencies.
+Internal cohesion is calculated by preprocessing the paragraphs or sentences in a dictionary composed of the words and the frequencies in which they appear. The pre-processing phase removes the punctuation and invalid characters, carries out the part of speech and lemmatizes the words.  Then the similarity between each combination of words in the two segments is calculated and multiplied by the frequencies.
 
 The similarity between two words is calculated using the following formula:
 
