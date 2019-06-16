@@ -28,12 +28,12 @@ For this task the cosine similarity has been calculated for each pair of nasari 
 
 ## Babelnet
 
-Once we got the senses that maximize similarity, we used Babelnet to get their gloss that we used to compute the final accuracy.
+Once we got the senses that maximize similarity, we used Babelnet to get their gloss that we used to compute the final accuracy. The results has been stored in result/Output.txt (Output_EN English version).
 
 
 ## Results
 
-For obtain the final result we hand annotated each term ad pair with "1" if the sense that maximize the similarity is the same we intended during the hand annotation, "0" otherwise. Accuracy has been calculated counting the occurences of "1" annotated term(pair) and dividing them for the total number of annotated term(pair). The final result we obtained calculating is the following:
+To obtain the final result we hand annotated each term and pair with "1" if the sense that maximize the similarity is the same we intended during the hand annotation, "0" otherwise. Accuracy has been calculated counting the occurences of "1" annotated term (or pair) and dividing them for the total number of annotated term (or pair). The final result we obtained is the following:
 
     Individual term accuracy for user S = 0.7551020408163265
     Pair accuracy for user S = 0.6122448979591837
