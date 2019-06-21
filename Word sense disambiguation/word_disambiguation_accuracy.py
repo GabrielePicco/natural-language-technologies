@@ -9,11 +9,10 @@ from word_disambiguation_utils import lesk
 
 extract_true_syn_regex = "Lemma\('(.+?)'\), .Tree\('NN', .'([a-zA-Z]+?)'\]"
 
+number_test_senteces = 50
 test_sentences = []
-for sentence, tagged_sentence in zip(semcor.sents()[:50], semcor.tagged_sents(tag='both')[:50]):
+for sentence, tagged_sentence in zip(semcor.sents()[0:50], semcor.tagged_sents(tag='both')[0:50]):
     syn = re.search(extract_true_syn_regex, pprint.pformat(tagged_sentence))
-    if syn.group(2) == "per":
-        print("error")
     if syn:
         test_sentences.append((sentence, syn.group(2), syn.group(1)[:syn.group(1).rindex('.')]))
 

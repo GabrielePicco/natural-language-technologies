@@ -1,6 +1,9 @@
 import string
 import inflect
-from nltk.corpus import wordnet
+from nltk import word_tokenize, pos_tag
+from nltk.corpus import wordnet, stopwords
+
+from utility.lemmatization_utility import lemmatize_word
 
 inflect = inflect.engine()
 
@@ -13,7 +16,11 @@ def normalize_sentence(sentence):
     """
     sentence = sentence.translate(str.maketrans('', '', string.punctuation))
     sentence = sentence.lower()
-    return sentence.split()
+    words_token = word_tokenize(sentence)
+    pos_tag_dict = dict(pos_tag(words_token))
+    splitted_text = [lemmatize_word(w, pos_tag_dict[w]).lower() for w in words_token
+                     if w not in stopwords.words("english")]
+    return splitted_text
 
 
 def get_synset_context(syn):
@@ -38,6 +45,8 @@ def lesk(sentence, ambiguous_word):
     sentence = normalize_sentence(sentence)
     context = set(sentence)
     intersection_c, sense = max([(len(context.intersection(get_synset_context(syn))), syn) for syn in target_synsets])
+    if intersection_c == 0:
+        return target_synsets[0]
     return sense
 
 
