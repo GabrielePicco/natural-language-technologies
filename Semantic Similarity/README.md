@@ -39,3 +39,12 @@ To obtain the final result we hand annotated each term and pair with "1" if the 
     Pair accuracy for user S = 0.6122448979591837
     Individual term accuracy for user G = 0.7346938775510204
     Pair accuracy for user G = 0.5714285714285714
+
+We calculated the mean value of annotation for each user and the Pearson and Spearman correlation between the annotations:
+    
+    First user mean:  1.822
+    Second user mean:  1.988
+    Pearson correlation:  (0.8788330530274371, 2.9267608974718636e-33)
+    SpearmanrResult(correlation=0.8822225421746083, pvalue=7.931159499974398e-34)
+
+As shown by the results, on average, very similar terms were not found, while the correlation was high, showing that in general the same senses were understood during the annotation phase
